@@ -4,7 +4,6 @@ Assessment to develop calculator in Angular2
 Install below npm if the code does not work
 ---------------------------------------------------------------------------
 npm install
-
 npm install --save-dev jasmine
 
 npm install --save-dev karma
